@@ -1,0 +1,1607 @@
+[
+  {
+    "id": "avgorande",
+    "swedish": "Avgörande",
+    "lead": "",
+    "entries": [
+      {
+        "english": "crucial",
+        "star": true,
+        "nuance": "av mycket stor betydelse",
+        "example": ""
+      },
+      {
+        "english": "decisive",
+        "star": true,
+        "nuance": "utslagsgivande; det som faktiskt avgör",
+        "example": ""
+      },
+      {
+        "english": "key",
+        "star": true,
+        "nuance": "central och viktig",
+        "example": ""
+      },
+      {
+        "english": "critical",
+        "star": true,
+        "nuance": "kritiskt viktigt",
+        "example": ""
+      },
+      {
+        "english": "essential",
+        "star": true,
+        "nuance": "nödvändigt",
+        "example": ""
+      },
+      {
+        "english": "pivotal",
+        "star": true,
+        "nuance": "avgörande för fortsatt utveckling",
+        "example": ""
+      }
+    ],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "id": "avsiktlig",
+    "swedish": "Avsiktlig",
+    "lead": "",
+    "entries": [
+      {
+        "english": "intentional",
+        "star": true,
+        "nuance": "med avsikt, inte av misstag",
+        "example": ""
+      },
+      {
+        "english": "deliberate",
+        "star": true,
+        "nuance": "aktivt och genomtänkt valt",
+        "example": ""
+      },
+      {
+        "english": "purposeful",
+        "star": true,
+        "nuance": "gjort med ett tydligt syfte",
+        "example": ""
+      },
+      {
+        "english": "conscious",
+        "star": true,
+        "nuance": "ett medvetet val",
+        "example": ""
+      },
+      {
+        "english": "knowingly",
+        "star": true,
+        "nuance": "med vetskap om vad man gör",
+        "example": ""
+      }
+    ],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "id": "begrepp",
+    "swedish": "Begrepp",
+    "lead": "Concept är oftast rätt, men engelskan skiljer mellan idé/innehåll, benämning och teoretisk konstruktion.",
+    "entries": [
+      {
+        "english": "concept",
+        "star": true,
+        "nuance": "En idé eller abstraktion med ett visst innehåll.",
+        "example": ""
+      },
+      {
+        "english": "term",
+        "star": true,
+        "nuance": "Själva ordet eller benämningen för ett begrepp.",
+        "example": ""
+      },
+      {
+        "english": "notion",
+        "star": false,
+        "nuance": "En föreställning eller idé, ofta mindre strikt definierad.",
+        "example": ""
+      },
+      {
+        "english": "construct",
+        "star": false,
+        "nuance": "Ett teoretiskt definierat fenomen, särskilt i forskning.",
+        "example": ""
+      },
+      {
+        "english": "idea",
+        "star": false,
+        "nuance": "Mer allmän och mindre teknisk betydelse.",
+        "example": ""
+      }
+    ],
+    "notes": [
+      "<strong>Viktig skillnad:</strong> <em>concept</em> = innebörden/idén, medan <em>term</em> = ordet eller benämningen."
+    ],
+    "examples": []
+  },
+  {
+    "id": "behandla",
+    "swedish": "Behandla",
+    "lead": "Som i ”källan behandlar ämnet X”.",
+    "entries": [
+      {
+        "english": "address",
+        "star": true,
+        "nuance": "Tar upp och behandlar en fråga eller ett ämne substantiellt.",
+        "example": ""
+      },
+      {
+        "english": "discuss",
+        "star": true,
+        "nuance": "Diskuterar eller resonerar kring ämnet.",
+        "example": ""
+      },
+      {
+        "english": "examine",
+        "star": false,
+        "nuance": "Undersöker ämnet närmare eller systematiskt.",
+        "example": ""
+      },
+      {
+        "english": "explore",
+        "star": false,
+        "nuance": "Utforskar ämnet öppet och fördjupande.",
+        "example": ""
+      },
+      {
+        "english": "deal with",
+        "star": false,
+        "nuance": "Handlar om eller behandlar; idiomatiskt men mindre formellt.",
+        "example": ""
+      },
+      {
+        "english": "cover",
+        "star": false,
+        "nuance": "Täcker eller tar upp ämnet utan att nödvändigtvis analysera det djupt.",
+        "example": ""
+      },
+      {
+        "english": "focus on",
+        "star": false,
+        "nuance": "Fokuserar på ämnet.",
+        "example": ""
+      },
+      {
+        "english": "concern",
+        "star": false,
+        "nuance": "Rör eller handlar om.",
+        "example": ""
+      },
+      {
+        "english": "engage with",
+        "star": false,
+        "nuance": "Går aktivt i dialog med ett ämne, en teori eller tidigare forskning.",
+        "example": ""
+      }
+    ],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "id": "bred",
+    "swedish": "Bred",
+    "lead": "",
+    "entries": [
+      {
+        "english": "broad",
+        "star": true,
+        "nuance": "Omfattar många områden eller aspekter.",
+        "example": ""
+      },
+      {
+        "english": "wide",
+        "star": false,
+        "nuance": "Stor variation eller omfattning, ofta i fasta uttryck.",
+        "example": ""
+      },
+      {
+        "english": "extensive",
+        "star": false,
+        "nuance": "Stor till omfattning eller mängd.",
+        "example": ""
+      },
+      {
+        "english": "diverse",
+        "star": false,
+        "nuance": "Består av många olika typer.",
+        "example": ""
+      },
+      {
+        "english": "comprehensive",
+        "star": false,
+        "nuance": "Omfattande och heltäckande.",
+        "example": ""
+      },
+      {
+        "english": "general",
+        "star": false,
+        "nuance": "Allmän, inte specifik eller specialiserad.",
+        "example": ""
+      },
+      {
+        "english": "wide-ranging",
+        "star": false,
+        "nuance": "Spänner över många olika områden.",
+        "example": ""
+      },
+      {
+        "english": "multidisciplinary",
+        "star": false,
+        "nuance": "Omfattar flera discipliner.",
+        "example": ""
+      }
+    ],
+    "notes": [
+      "<strong>Vanlig fallgrop:</strong> ”bred erfarenhet” blir ofta naturligare som <em>extensive experience</em> än <em>broad experience</em>."
+    ],
+    "examples": []
+  },
+  {
+    "id": "enbart",
+    "swedish": "Enbart",
+    "lead": "",
+    "entries": [
+      {
+        "english": "solely",
+        "star": true,
+        "nuance": "Uteslutande; särskilt användbart i akademisk text.",
+        "example": ""
+      },
+      {
+        "english": "only",
+        "star": true,
+        "nuance": "Neutralt och allmänt.",
+        "example": ""
+      },
+      {
+        "english": "exclusively",
+        "star": false,
+        "nuance": "Inget annat ingår eller omfattas.",
+        "example": ""
+      },
+      {
+        "english": "merely",
+        "star": false,
+        "nuance": "Inte mer än; kan tona ned betydelsen.",
+        "example": ""
+      },
+      {
+        "english": "purely",
+        "star": false,
+        "nuance": "Helt och hållet av ett visst skäl eller slag.",
+        "example": ""
+      },
+      {
+        "english": "just",
+        "star": false,
+        "nuance": "Vardagligare ”bara”.",
+        "example": ""
+      },
+      {
+        "english": "X alone",
+        "star": false,
+        "nuance": "Enbart X eller X i sig.",
+        "example": ""
+      }
+    ],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "id": "erfarenhet",
+    "swedish": "Erfarenhet",
+    "lead": "",
+    "entries": [
+      {
+        "english": "experience",
+        "star": true,
+        "nuance": "Kunskap eller färdighet som byggts upp genom att göra något.",
+        "example": ""
+      },
+      {
+        "english": "prior experience",
+        "star": true,
+        "nuance": "Erfarenhet man redan hade sedan tidigare.",
+        "example": ""
+      },
+      {
+        "english": "expertise",
+        "star": false,
+        "nuance": "Djup sakkunskap och kompetens inom ett område.",
+        "example": ""
+      },
+      {
+        "english": "background",
+        "star": false,
+        "nuance": "Samlad tidigare utbildning och erfarenhet.",
+        "example": ""
+      },
+      {
+        "english": "exposure",
+        "star": false,
+        "nuance": "Att ha kommit i kontakt med eller fått viss erfarenhet av något.",
+        "example": ""
+      },
+      {
+        "english": "track record",
+        "star": false,
+        "nuance": "Dokumenterad historik av tidigare prestationer.",
+        "example": ""
+      }
+    ],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "id": "framforallt",
+    "swedish": "Framför allt",
+    "lead": "",
+    "entries": [
+      {
+        "english": "particularly",
+        "star": true,
+        "nuance": "något gäller särskilt mycket",
+        "example": ""
+      },
+      {
+        "english": "primarily",
+        "star": true,
+        "nuance": "något är huvudsakligt eller i första hand",
+        "example": ""
+      },
+      {
+        "english": "above all",
+        "star": true,
+        "nuance": "något prioriteras över annat",
+        "example": ""
+      },
+      {
+        "english": "in particular",
+        "star": true,
+        "nuance": "något pekas ut bland flera",
+        "example": ""
+      },
+      {
+        "english": "most importantly",
+        "star": true,
+        "nuance": "markerar den viktigaste punkten",
+        "example": ""
+      }
+    ],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "id": "framgar",
+    "swedish": "Framgår",
+    "lead": "",
+    "entries": [
+      {
+        "english": "is clear / becomes clear",
+        "star": true,
+        "nuance": "Något går att förstå eller dra slutsats om.",
+        "example": ""
+      },
+      {
+        "english": "is evident",
+        "star": true,
+        "nuance": "Något framgår tydligt av underlaget.",
+        "example": ""
+      },
+      {
+        "english": "can be seen",
+        "star": true,
+        "nuance": "Något kan utläsas, ofta ur figur eller tabell.",
+        "example": ""
+      },
+      {
+        "english": "shows / indicates",
+        "star": false,
+        "nuance": "En källa, tabell eller resultat visar något.",
+        "example": ""
+      },
+      {
+        "english": "states",
+        "star": false,
+        "nuance": "Något anges uttryckligen i texten.",
+        "example": ""
+      },
+      {
+        "english": "is apparent",
+        "star": false,
+        "nuance": "Något förefaller tydligt utifrån det man ser.",
+        "example": ""
+      },
+      {
+        "english": "emerges",
+        "star": false,
+        "nuance": "Något framträder genom en process eller analys.",
+        "example": ""
+      },
+      {
+        "english": "suggests",
+        "star": false,
+        "nuance": "Underlaget pekar mot något utan att fastslå det.",
+        "example": ""
+      },
+      {
+        "english": "specify",
+        "star": false,
+        "nuance": "Kan vara bättre än ”it is not clear” när information inte anges uttryckligen.",
+        "example": ""
+      }
+    ],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "id": "friskriva",
+    "swedish": "Friskriva",
+    "lead": "",
+    "entries": [
+      {
+        "english": "disclaim",
+        "star": true,
+        "nuance": "Formellt avsäga sig ansvar, en rättighet eller en koppling.",
+        "example": ""
+      },
+      {
+        "english": "disclaimer",
+        "star": true,
+        "nuance": "Själva friskrivningstexten.",
+        "example": ""
+      },
+      {
+        "english": "waive",
+        "star": true,
+        "nuance": "Frivilligt avstå från en rättighet eller ett krav.",
+        "example": ""
+      },
+      {
+        "english": "exempt",
+        "star": false,
+        "nuance": "Undanta eller befria från ett krav eller ansvar.",
+        "example": ""
+      },
+      {
+        "english": "release … from liability",
+        "star": false,
+        "nuance": "Befria någon från ansvar.",
+        "example": ""
+      },
+      {
+        "english": "limit liability",
+        "star": false,
+        "nuance": "Begränsa ansvar snarare än helt friskriva.",
+        "example": ""
+      },
+      {
+        "english": "distance oneself from",
+        "star": false,
+        "nuance": "Markera att man inte vill förknippas med något.",
+        "example": ""
+      }
+    ],
+    "notes": [
+      "<strong>Disclaim vs waive:</strong> <em>disclaim</em> handlar typiskt om ansvar/anspråk; <em>waive</em> om en rättighet man själv avstår från."
+    ],
+    "examples": []
+  },
+  {
+    "id": "forlorad",
+    "swedish": "Förlorad / missad möjlighet",
+    "lead": "",
+    "entries": [
+      {
+        "english": "missed opportunity",
+        "star": true,
+        "nuance": "En möjlighet fanns men togs inte till vara.",
+        "example": ""
+      },
+      {
+        "english": "lost opportunity",
+        "star": false,
+        "nuance": "Möjligheten har gått förlorad, ofta genom omständigheter.",
+        "example": ""
+      },
+      {
+        "english": "wasted opportunity",
+        "star": false,
+        "nuance": "Möjligheten slösades bort eller utnyttjades dåligt.",
+        "example": ""
+      },
+      {
+        "english": "squandered opportunity",
+        "star": false,
+        "nuance": "Starkare kritik: möjligheten förspilldes genom dåligt agerande.",
+        "example": ""
+      },
+      {
+        "english": "missed chance",
+        "star": false,
+        "nuance": "Vardagligare än missed opportunity .",
+        "example": ""
+      },
+      {
+        "english": "lost chance",
+        "star": false,
+        "nuance": "Chansen finns inte längre.",
+        "example": ""
+      }
+    ],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "id": "convey",
+    "swedish": "Förmedla",
+    "lead": "Att förmedla något så att information, innebörd, känsla eller uppfattning når fram.",
+    "entries": [
+      {
+        "english": "convey",
+        "star": true,
+        "nuance": "Förmedla något så att information, innebörd, känsla eller uppfattning når fram.",
+        "example": "The portfolio should convey your approach to teaching."
+      },
+      {
+        "english": "communicate",
+        "star": false,
+        "nuance": "Kommunicera eller överföra information; bredare fokus än <em>convey</em>.",
+        "example": "The results were communicated to the students."
+      },
+      {
+        "english": "transfer",
+        "star": false,
+        "nuance": "Överföra något från en plats, person eller form till en annan; ofta mer konkret eller tekniskt.",
+        "example": "The training aims to transfer knowledge into practice."
+      }
+    ],
+    "notes": [
+      "<strong>Skillnad mot communicate:</strong> <em>convey</em> fokuserar ofta på det som förmedlas och om innebörden når fram."
+    ],
+    "examples": []
+  },
+  {
+    "id": "formodad",
+    "swedish": "Förmodad",
+    "lead": "",
+    "entries": [
+      {
+        "english": "assumed",
+        "star": true,
+        "nuance": "Något man utgår från utan att det nödvändigtvis är belagt.",
+        "example": ""
+      },
+      {
+        "english": "presumed",
+        "star": true,
+        "nuance": "Något som hålls för sannolikt eller sant tills motsatsen visas.",
+        "example": ""
+      },
+      {
+        "english": "supposed",
+        "star": false,
+        "nuance": "Något som sägs eller förväntas vara på ett visst sätt.",
+        "example": ""
+      },
+      {
+        "english": "apparent",
+        "star": false,
+        "nuance": "Något som förefaller vara så.",
+        "example": ""
+      },
+      {
+        "english": "alleged",
+        "star": false,
+        "nuance": "Något som påstås vara sant men inte är fastställt; kan signalera skepsis.",
+        "example": ""
+      },
+      {
+        "english": "hypothesized",
+        "star": false,
+        "nuance": "Något som uttryckligen har formulerats som en hypotes.",
+        "example": ""
+      },
+      {
+        "english": "expected",
+        "star": false,
+        "nuance": "Något man på förhand förväntar sig.",
+        "example": ""
+      }
+    ],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "id": "ganska",
+    "swedish": "Ganska",
+    "lead": "",
+    "entries": [
+      {
+        "english": "fairly",
+        "star": true,
+        "nuance": "Måttlig grad; neutralt.",
+        "example": ""
+      },
+      {
+        "english": "rather",
+        "star": true,
+        "nuance": "Ganska, ofta med visst eftertryck eller ”mer än väntat”.",
+        "example": ""
+      },
+      {
+        "english": "quite",
+        "star": false,
+        "nuance": "Kan betyda från ”ganska” till ”helt”, beroende på kontext och varietet.",
+        "example": ""
+      },
+      {
+        "english": "relatively",
+        "star": false,
+        "nuance": "Förhållandevis, i relation till något annat.",
+        "example": ""
+      },
+      {
+        "english": "reasonably",
+        "star": false,
+        "nuance": "I rimlig eller tillräcklig grad.",
+        "example": ""
+      },
+      {
+        "english": "somewhat",
+        "star": false,
+        "nuance": "Något, i viss mån; försiktigt nedtonat.",
+        "example": ""
+      },
+      {
+        "english": "moderately",
+        "star": false,
+        "nuance": "Uttryckligen måttlig grad.",
+        "example": ""
+      }
+    ],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "id": "helhet",
+    "swedish": "Helhet / helhetsintryck",
+    "lead": "",
+    "entries": [
+      {
+        "english": "whole / as a whole",
+        "star": true,
+        "nuance": "något betraktat i sin helhet",
+        "example": ""
+      },
+      {
+        "english": "overall impression",
+        "star": true,
+        "nuance": "det samlade intrycket",
+        "example": ""
+      },
+      {
+        "english": "overall picture",
+        "star": true,
+        "nuance": "helhetsbilden när allt vägs samman",
+        "example": ""
+      },
+      {
+        "english": "coherent whole",
+        "star": true,
+        "nuance": "delar som bildar en sammanhängande helhet",
+        "example": ""
+      },
+      {
+        "english": "big picture",
+        "star": true,
+        "nuance": "det större perspektivet",
+        "example": ""
+      },
+      {
+        "english": "holistic",
+        "star": true,
+        "nuance": "helhetsorienterad",
+        "example": ""
+      }
+    ],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "id": "helhetsbedomning",
+    "swedish": "Helhetsbedömning",
+    "lead": "",
+    "entries": [
+      {
+        "english": "overall assessment",
+        "star": true,
+        "nuance": "samlad bedömning där flera aspekter vägs samman",
+        "example": ""
+      },
+      {
+        "english": "holistic assessment",
+        "star": true,
+        "nuance": "bedömning där helheten prioriteras framför separata delar",
+        "example": ""
+      },
+      {
+        "english": "overall evaluation",
+        "star": true,
+        "nuance": "samlad utvärdering",
+        "example": ""
+      },
+      {
+        "english": "overall judgement",
+        "star": true,
+        "nuance": "samlat professionellt omdöme",
+        "example": ""
+      },
+      {
+        "english": "assess holistically",
+        "star": true,
+        "nuance": "helhetsbedöma",
+        "example": ""
+      }
+    ],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "id": "harstammar",
+    "swedish": "Härstammar",
+    "lead": "",
+    "entries": [
+      {
+        "english": "originate from/in",
+        "star": true,
+        "nuance": "Neutralt ursprung; där något först uppstod.",
+        "example": ""
+      },
+      {
+        "english": "derive from",
+        "star": true,
+        "nuance": "Något har utvecklats eller härletts ur något annat.",
+        "example": ""
+      },
+      {
+        "english": "stem from",
+        "star": false,
+        "nuance": "Något har sin grund i eller orsakas av något.",
+        "example": ""
+      },
+      {
+        "english": "come from",
+        "star": false,
+        "nuance": "Neutral och mindre formell formulering.",
+        "example": ""
+      },
+      {
+        "english": "trace back to",
+        "star": false,
+        "nuance": "Ursprunget kan följas tillbaka historiskt.",
+        "example": ""
+      },
+      {
+        "english": "descend from",
+        "star": false,
+        "nuance": "Biologisk eller genealogisk härstamning.",
+        "example": ""
+      }
+    ],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "id": "konkretisera",
+    "swedish": "Konkretisera",
+    "lead": "",
+    "entries": [
+      {
+        "english": "make … more concrete",
+        "star": true,
+        "nuance": "göra en abstrakt idé mer konkret",
+        "example": ""
+      },
+      {
+        "english": "make … more specific",
+        "star": true,
+        "nuance": "göra något mindre allmänt",
+        "example": ""
+      },
+      {
+        "english": "illustrate / exemplify",
+        "star": true,
+        "nuance": "konkretisera genom exempel",
+        "example": ""
+      },
+      {
+        "english": "specify",
+        "star": true,
+        "nuance": "ange mer exakt",
+        "example": ""
+      },
+      {
+        "english": "elaborate on",
+        "star": true,
+        "nuance": "utveckla med mer information",
+        "example": ""
+      },
+      {
+        "english": "translate … into",
+        "star": true,
+        "nuance": "omsätta en idé i praktik",
+        "example": ""
+      },
+      {
+        "english": "operationalize",
+        "star": true,
+        "nuance": "göra ett teoretiskt begrepp empiriskt undersökningsbart",
+        "example": ""
+      }
+    ],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "id": "kalla",
+    "swedish": "Källa",
+    "lead": "Akademisk kontext: source, reference, citation och evidence är inte utbytbara.",
+    "entries": [
+      {
+        "english": "source",
+        "star": true,
+        "nuance": "Var informationen kommer ifrån.",
+        "example": ""
+      },
+      {
+        "english": "reference",
+        "star": true,
+        "nuance": "Det akademiska verk man hänvisar till, eller referensen till det.",
+        "example": ""
+      },
+      {
+        "english": "citation",
+        "star": false,
+        "nuance": "Själva hänvisningen i texten.",
+        "example": ""
+      },
+      {
+        "english": "literature",
+        "star": false,
+        "nuance": "Forskningslitteraturen som samlad kunskapsbas.",
+        "example": ""
+      },
+      {
+        "english": "study",
+        "star": false,
+        "nuance": "En specifik studie som stöder ett påstående.",
+        "example": ""
+      },
+      {
+        "english": "paper / article",
+        "star": false,
+        "nuance": "Den konkreta publikationen.",
+        "example": ""
+      },
+      {
+        "english": "work",
+        "star": false,
+        "nuance": "Ett publicerat vetenskapligt arbete som neutralt samlingsord.",
+        "example": ""
+      },
+      {
+        "english": "evidence",
+        "star": true,
+        "nuance": "Belägget eller stödet som källor ger för ett påstående.",
+        "example": ""
+      },
+      {
+        "english": "research",
+        "star": false,
+        "nuance": "Forskningen som kunskapsunderlag snarare än en specifik publikation.",
+        "example": ""
+      }
+    ],
+    "notes": [
+      "<strong>Snabb åtskillnad:</strong> <em>source</em> = informationsursprung; <em>reference</em> = det du hänvisar till; <em>citation</em> = själva hänvisningen; <em>evidence</em> = det stöd källan ger."
+    ],
+    "examples": []
+  },
+  {
+    "id": "lar-domar",
+    "swedish": "Lärdomar",
+    "lead": "",
+    "entries": [
+      {
+        "english": "insights",
+        "star": true,
+        "nuance": "Ny förståelse eller insikter som kommit ur analys eller forskning.",
+        "example": ""
+      },
+      {
+        "english": "lessons learned",
+        "star": true,
+        "nuance": "Erfarenhetsbaserade lärdomar från något man gjort eller genomfört.",
+        "example": ""
+      },
+      {
+        "english": "lessons",
+        "star": false,
+        "nuance": "Lärdomar med en mer generell eller framtidsinriktad innebörd.",
+        "example": ""
+      },
+      {
+        "english": "findings",
+        "star": false,
+        "nuance": "Det som en studie faktiskt har visat.",
+        "example": ""
+      },
+      {
+        "english": "takeaways",
+        "star": false,
+        "nuance": "Det viktigaste att ta med sig; mer informellt.",
+        "example": ""
+      },
+      {
+        "english": "learnings",
+        "star": false,
+        "nuance": "Förekommer, särskilt i managementspråk, men kan låta som corporate jargon.",
+        "example": ""
+      }
+    ],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "id": "olamplig",
+    "swedish": "Olämplig",
+    "lead": "",
+    "entries": [
+      {
+        "english": "unsuitable",
+        "star": true,
+        "nuance": "Passar inte för ett visst ändamål.",
+        "example": ""
+      },
+      {
+        "english": "inappropriate",
+        "star": true,
+        "nuance": "Inte passande eller acceptabelt i sammanhanget.",
+        "example": ""
+      },
+      {
+        "english": "not appropriate",
+        "star": false,
+        "nuance": "Neutralare formulering än inappropriate .",
+        "example": ""
+      },
+      {
+        "english": "ill-suited",
+        "star": false,
+        "nuance": "Dåligt lämpad för en uppgift eller situation.",
+        "example": ""
+      },
+      {
+        "english": "unfit",
+        "star": false,
+        "nuance": "Saknar lämplighet eller förutsättningar.",
+        "example": ""
+      },
+      {
+        "english": "inadvisable",
+        "star": false,
+        "nuance": "Något man inte bör göra.",
+        "example": ""
+      },
+      {
+        "english": "problematic",
+        "star": false,
+        "nuance": "Något som medför problem; inte identiskt med olämplig .",
+        "example": ""
+      },
+      {
+        "english": "irrelevant",
+        "star": false,
+        "nuance": "Inte relevant; ibland det egentliga man menar med olämplig.",
+        "example": ""
+      }
+    ],
+    "notes": [
+      "<strong>Viktig skillnad:</strong> <em>unsuitable</em> = passar inte för ändamålet. <em>Inappropriate</em> kan dessutom antyda att något bryter mot en norm."
+    ],
+    "examples": []
+  },
+  {
+    "id": "problematisera",
+    "swedish": "Problematisera",
+    "lead": "Ett akademiskt ord där den mest exakta engelskan beror på vad ”problematisera” faktiskt innebär.",
+    "entries": [
+      {
+        "english": "problematize / problematise",
+        "star": false,
+        "nuance": "Göra något som tas för givet till föremål för kritisk granskning; visa underliggande antaganden eller komplexitet.",
+        "example": ""
+      },
+      {
+        "english": "critically examine",
+        "star": true,
+        "nuance": "Undersöka något kritiskt, inklusive antaganden och problem.",
+        "example": ""
+      },
+      {
+        "english": "critically discuss",
+        "star": true,
+        "nuance": "Diskutera olika perspektiv, begränsningar och komplikationer.",
+        "example": ""
+      },
+      {
+        "english": "question",
+        "star": false,
+        "nuance": "Ifrågasätta ett antagande eller synsätt.",
+        "example": ""
+      },
+      {
+        "english": "challenge",
+        "star": false,
+        "nuance": "Aktivt utmana ett etablerat antagande.",
+        "example": ""
+      },
+      {
+        "english": "complicate",
+        "star": false,
+        "nuance": "Visa att något är mer komplext än den etablerade bilden antyder.",
+        "example": ""
+      },
+      {
+        "english": "raise questions about",
+        "star": false,
+        "nuance": "Lyfta problem eller frågor kring något.",
+        "example": ""
+      },
+      {
+        "english": "critique",
+        "star": false,
+        "nuance": "Göra en kritisk analys av idéer, teori eller argument.",
+        "example": ""
+      }
+    ],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "id": "paverka",
+    "swedish": "Påverka",
+    "lead": "",
+    "entries": [
+      {
+        "english": "affect",
+        "star": true,
+        "nuance": "Neutralt: ha en effekt på eller leda till förändring.",
+        "example": ""
+      },
+      {
+        "english": "influence",
+        "star": true,
+        "nuance": "Mer indirekt eller formande påverkan.",
+        "example": ""
+      },
+      {
+        "english": "impact",
+        "star": false,
+        "nuance": "Stark eller tydligt märkbar påverkan.",
+        "example": ""
+      },
+      {
+        "english": "shape",
+        "star": false,
+        "nuance": "Forma hur något utvecklas, ofta över tid.",
+        "example": ""
+      },
+      {
+        "english": "alter",
+        "star": false,
+        "nuance": "Faktiskt förändra något.",
+        "example": ""
+      },
+      {
+        "english": "determine",
+        "star": false,
+        "nuance": "Avgöra; mycket stark påverkan.",
+        "example": ""
+      },
+      {
+        "english": "contribute to",
+        "star": false,
+        "nuance": "Bidra till ett resultat bland flera möjliga faktorer.",
+        "example": ""
+      }
+    ],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "id": "redovisa",
+    "swedish": "Redovisa",
+    "lead": "Här väljs engelskt ord framför allt efter vad som redovisas och på vilket sätt.",
+    "entries": [
+      {
+        "english": "report",
+        "star": true,
+        "nuance": "Redovisa resultat, data och observationer.",
+        "example": "The results are reported in Table 2."
+      },
+      {
+        "english": "present",
+        "star": true,
+        "nuance": "Lägga fram något för läsare eller publik.",
+        "example": "We present the results of the analysis."
+      },
+      {
+        "english": "describe",
+        "star": false,
+        "nuance": "Redogöra för hur något ser ut eller gick till.",
+        "example": "The methodology is described in Section 3."
+      },
+      {
+        "english": "account for",
+        "star": false,
+        "nuance": "Redogöra för eller förklara något.",
+        "example": "The authors must account for their methodological choices."
+      },
+      {
+        "english": "provide an account of",
+        "star": false,
+        "nuance": "Ge en sammanhängande redogörelse.",
+        "example": "provide an account of the analysis"
+      },
+      {
+        "english": "outline",
+        "star": false,
+        "nuance": "Redovisa huvuddragen kortfattat.",
+        "example": "outline the main findings"
+      },
+      {
+        "english": "detail",
+        "star": false,
+        "nuance": "Redovisa något utförligt.",
+        "example": "detail the procedure"
+      },
+      {
+        "english": "disclose",
+        "star": false,
+        "nuance": "Offentliggöra information som annars inte är känd.",
+        "example": "disclose a conflict of interest"
+      },
+      {
+        "english": "declare",
+        "star": false,
+        "nuance": "Formellt uppge något.",
+        "example": "declare an interest"
+      }
+    ],
+    "notes": [
+      "<strong>Obs:</strong> <em>account for</em> kan också betyda ”förklara”. ”Redovisa en uppgift” i undervisning kan dessutom bli <em>present</em>, <em>demonstrate</em> eller <em>submit</em> beroende på vad redovisningen innebär."
+    ],
+    "examples": []
+  },
+  {
+    "id": "speciellt",
+    "swedish": "Speciellt / särskilt",
+    "lead": "",
+    "entries": [
+      {
+        "english": "especially",
+        "star": true,
+        "nuance": "Något gäller i högre grad för just detta.",
+        "example": ""
+      },
+      {
+        "english": "particularly",
+        "star": true,
+        "nuance": "Pekar ut något som särskilt relevant eller tydligt.",
+        "example": ""
+      },
+      {
+        "english": "notably",
+        "star": false,
+        "nuance": "Något är särskilt värt att uppmärksamma.",
+        "example": ""
+      },
+      {
+        "english": "in particular",
+        "star": false,
+        "nuance": "Lyfter fram ett specifikt fall ur flera.",
+        "example": ""
+      },
+      {
+        "english": "specifically",
+        "star": false,
+        "nuance": "Specifikt eller närmare bestämt; inte bara synonym till especially .",
+        "example": ""
+      },
+      {
+        "english": "above all",
+        "star": false,
+        "nuance": "Något är viktigare än övriga saker.",
+        "example": ""
+      },
+      {
+        "english": "primarily",
+        "star": false,
+        "nuance": "Främst eller i första hand.",
+        "example": ""
+      },
+      {
+        "english": "most importantly",
+        "star": false,
+        "nuance": "Markerar den viktigaste punkten.",
+        "example": ""
+      },
+      {
+        "english": "specially",
+        "star": false,
+        "nuance": "Något har gjorts särskilt för ett visst ändamål.",
+        "example": ""
+      }
+    ],
+    "notes": [
+      "<strong>Especially vs specially:</strong> <em>especially</em> = särskilt/i synnerhet; <em>specially</em> = särskilt för ett visst ändamål."
+    ],
+    "examples": []
+  },
+  {
+    "id": "syfte",
+    "swedish": "Syfte",
+    "lead": "",
+    "entries": [
+      {
+        "english": "aim",
+        "star": true,
+        "nuance": "Vad en studie eller aktivitet försöker uppnå eller undersöka.",
+        "example": ""
+      },
+      {
+        "english": "purpose",
+        "star": true,
+        "nuance": "Varför något finns eller görs; dess övergripande funktion eller avsikt.",
+        "example": ""
+      },
+      {
+        "english": "objective",
+        "star": false,
+        "nuance": "Ett konkret och avgränsat mål som ska uppnås.",
+        "example": ""
+      },
+      {
+        "english": "goal",
+        "star": false,
+        "nuance": "Önskat slutläge eller resultat.",
+        "example": ""
+      },
+      {
+        "english": "intention",
+        "star": false,
+        "nuance": "Vad någon avser att göra.",
+        "example": ""
+      },
+      {
+        "english": "rationale",
+        "star": false,
+        "nuance": "Varför man valt att göra något; bakomliggande skäl.",
+        "example": ""
+      },
+      {
+        "english": "function",
+        "star": false,
+        "nuance": "Vilken funktion något fyller.",
+        "example": ""
+      }
+    ],
+    "notes": [
+      "<strong>Akademiskt:</strong> <em>The aim of this study is to investigate…</em> är ofta ett mycket naturligt sätt att skriva <em>Syftet med denna studie är att undersöka…</em>"
+    ],
+    "examples": []
+  },
+  {
+    "id": "plausible",
+    "swedish": "Trolig",
+    "lead": "När något framstår som rimligt eller trovärdigt utifrån vad man vet, utan att det därmed är fastställt.",
+    "entries": [
+      {
+        "english": "plausible",
+        "star": true,
+        "nuance": "Rimlig, trovärdig eller tänkbar utifrån tillgänglig kunskap, utan att något påstås vara säkert.",
+        "example": "One plausible explanation is that students mimic successful strategies without developing a deeper understanding."
+      },
+      {
+        "english": "possible",
+        "star": false,
+        "nuance": "Något som kan vara sant eller inträffa; lägre krav på rimlighet än <em>plausible</em>.",
+        "example": ""
+      },
+      {
+        "english": "likely / probable",
+        "star": false,
+        "nuance": "Något som är sannolikt; starkare än <em>plausible</em>.",
+        "example": ""
+      }
+    ],
+    "notes": [
+      "Styrkeskala: <em>possible</em> = det kan vara så; <em>plausible</em> = det finns rimliga skäl att tänka att det kan vara så; <em>likely/probable</em> = det är sannolikt."
+    ],
+    "examples": []
+  },
+  {
+    "id": "tvartom",
+    "swedish": "Tvärtom",
+    "lead": "",
+    "entries": [
+      {
+        "english": "on the contrary",
+        "star": true,
+        "nuance": "motsäger uttryckligen det som just sagts",
+        "example": ""
+      },
+      {
+        "english": "conversely",
+        "star": true,
+        "nuance": "samma resonemang i motsatt riktning",
+        "example": ""
+      },
+      {
+        "english": "the opposite",
+        "star": true,
+        "nuance": "den direkta motsatsen",
+        "example": ""
+      },
+      {
+        "english": "vice versa",
+        "star": true,
+        "nuance": "relationen gäller med rollerna ombytta",
+        "example": ""
+      },
+      {
+        "english": "in contrast",
+        "star": true,
+        "nuance": "markerar kontrast snarare än direkt motsats",
+        "example": ""
+      }
+    ],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "id": "undersoka",
+    "swedish": "Undersöka",
+    "lead": "Särskilt när man vill undersöka ett fenomen i detalj.",
+    "entries": [
+      {
+        "english": "investigate",
+        "star": true,
+        "nuance": "Systematiskt och ganska grundligt; försöka förstå vad som pågår.",
+        "example": ""
+      },
+      {
+        "english": "examine",
+        "star": true,
+        "nuance": "Titta noggrant på något och dess egenskaper eller delar.",
+        "example": ""
+      },
+      {
+        "english": "explore",
+        "star": true,
+        "nuance": "Undersöka ett område öppet och fördjupande för att förstå det bättre.",
+        "example": ""
+      },
+      {
+        "english": "study",
+        "star": false,
+        "nuance": "Neutralt akademiskt; något är föremål för en studie.",
+        "example": ""
+      },
+      {
+        "english": "analyze",
+        "star": false,
+        "nuance": "Analysera data, mekanismer, samband eller delar.",
+        "example": ""
+      },
+      {
+        "english": "scrutinize",
+        "star": false,
+        "nuance": "Mycket noggrant och ofta kritiskt granska.",
+        "example": ""
+      }
+    ],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "id": "urval",
+    "swedish": "Urval",
+    "lead": "Selection och sample är särskilt viktiga att skilja åt.",
+    "entries": [
+      {
+        "english": "selection",
+        "star": true,
+        "nuance": "En mängd personer eller saker som valts ut.",
+        "example": "a selection of relevant literature"
+      },
+      {
+        "english": "sample",
+        "star": true,
+        "nuance": "En delmängd som används som statistiskt eller empiriskt stickprov.",
+        "example": "a sample of 200 students"
+      },
+      {
+        "english": "sampling",
+        "star": false,
+        "nuance": "Själva statistiska urvalsprocessen eller urvalsmetoden.",
+        "example": "stratified random sampling"
+      },
+      {
+        "english": "shortlist",
+        "star": false,
+        "nuance": "En mindre grupp kandidater som går vidare efter gallring.",
+        "example": "the shortlisted candidates"
+      },
+      {
+        "english": "subset",
+        "star": false,
+        "nuance": "En delmängd i teknisk eller matematisk mening.",
+        "example": "a subset of the data"
+      }
+    ],
+    "notes": [
+      "<strong>Forskningsdistinktion:</strong> <em>population → sampling → sample</em>: populationen → urvalsprocessen → urvalet/stickprovet."
+    ],
+    "examples": []
+  },
+  {
+    "id": "utfall",
+    "swedish": "Utfall",
+    "lead": "I betydelsen något slags resultat eller vad som faktiskt blev resultatet av en process.",
+    "entries": [
+      {
+        "english": "outcome",
+        "star": true,
+        "nuance": "Det som faktiskt blev resultatet av en process, åtgärd, experiment eller situation.",
+        "example": "The outcome of the intervention was better than expected."
+      },
+      {
+        "english": "result",
+        "star": true,
+        "nuance": "Mer neutralt och allmänt resultat.",
+        "example": "The results show that students performed better."
+      },
+      {
+        "english": "output",
+        "star": false,
+        "nuance": "Det som produceras av ett system eller en process; snarare utdata/produkt.",
+        "example": "The system produces a text output."
+      },
+      {
+        "english": "effect",
+        "star": false,
+        "nuance": "Effekt eller förändring som något orsakar.",
+        "example": "The intervention had a positive effect."
+      },
+      {
+        "english": "finding",
+        "star": false,
+        "nuance": "Något man har kommit fram till genom en studie eller analys.",
+        "example": "One important finding was..."
+      }
+    ],
+    "notes": [
+      "<strong>Tumregel:</strong> <em>outcome</em> passar särskilt bra när det på förhand fanns flera möjliga utfall och man beskriver vilket som faktiskt inträffade."
+    ],
+    "examples": []
+  },
+  {
+    "id": "utforma",
+    "swedish": "Utforma",
+    "lead": "",
+    "entries": [
+      {
+        "english": "design",
+        "star": true,
+        "nuance": "medvetet skapa hur något ska fungera eller vara uppbyggt",
+        "example": ""
+      },
+      {
+        "english": "develop",
+        "star": true,
+        "nuance": "ta fram något genom en utvecklingsprocess",
+        "example": ""
+      },
+      {
+        "english": "formulate",
+        "star": true,
+        "nuance": "ge en idé eller fråga en precis språklig form",
+        "example": ""
+      },
+      {
+        "english": "devise",
+        "star": true,
+        "nuance": "tänka ut en metod, strategi eller lösning",
+        "example": ""
+      },
+      {
+        "english": "structure",
+        "star": true,
+        "nuance": "bestämma hur delar organiseras",
+        "example": ""
+      },
+      {
+        "english": "craft",
+        "star": true,
+        "nuance": "omsorgsfullt utforma något",
+        "example": ""
+      },
+      {
+        "english": "tailor",
+        "star": true,
+        "nuance": "anpassa efter ett behov eller en målgrupp",
+        "example": ""
+      }
+    ],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "id": "overtygande",
+    "swedish": "Övertygande",
+    "lead": "",
+    "entries": [
+      {
+        "english": "convincing",
+        "star": true,
+        "nuance": "får läsaren att acceptera något",
+        "example": ""
+      },
+      {
+        "english": "compelling",
+        "star": true,
+        "nuance": "särskilt starkt och svårt att bortse från",
+        "example": ""
+      },
+      {
+        "english": "persuasive",
+        "star": true,
+        "nuance": "effektivt argumenterande",
+        "example": ""
+      },
+      {
+        "english": "credible",
+        "star": true,
+        "nuance": "trovärdigt",
+        "example": ""
+      },
+      {
+        "english": "well-supported",
+        "star": true,
+        "nuance": "väl underbyggt",
+        "example": ""
+      },
+      {
+        "english": "cogent",
+        "star": true,
+        "nuance": "logiskt stringent och övertygande",
+        "example": ""
+      }
+    ],
+    "notes": [],
+    "examples": []
+  }
+]
